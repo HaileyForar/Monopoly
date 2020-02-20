@@ -18,7 +18,7 @@
 18. Community_Chest
 19. Property: 180 70 200 550 750 950 90 //Tennessee Avenue
 20. Property: 200 80 220 600 800 1000 100 //New York Avenue
-21. Free_Parking:
+21. Free_Parking: 
 22. Property: 220 90 250 700 875 1050 110 //Kentucky Avenue
 23. Chance:
 24. Property: 220 90 250 700 875 1050 110 //Indiana Avenue
